@@ -6,7 +6,9 @@
 2. windows.h (this header file belongs to Microsoft SDK, ask GPT to install it and add it to environment path)
 3. Visual Studio 2022
 
-## Build DLL (x64)
+## Build
+
+### Build DLL (x64)
 The hook will be compiled as a dynamic load library. 
 1. Open a new project in VS2022. Add hbb.h to header files, DLLmain.cpp and hbb.cpp to source files.
 2. Click "generate" on top tool bar, 
@@ -22,5 +24,7 @@ The hook will be compiled as a dynamic load library.
      d. 链接器-输入-附加依赖项：detours/lib_x64/detours.lib
    ![image](https://github.com/user-attachments/assets/c34f9fbe-e1ae-4715-8741-b4847bb39304)
 
+
+###
 
    
