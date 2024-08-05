@@ -30,7 +30,11 @@ The injector is compiled as an executable, code in injector
 2. modify the path to DLL in hmain.cpp to your own location of previous DLL.
 
 ### Reminder
-Processes running in x86 can only be hooked by x86 version of our program.To compile the x86 version, just change detours to x86 version.
+Processes running in x86 can only be hooked by x86 version of our program.To compile the x86 version, just change detours to x86 version, and then choose x86 on the top menu.
+
+
+![image](https://github.com/user-attachments/assets/1a31f384-bd9e-4834-9420-73818829195e)
+
 
 ## How to Run
 1. Open "x64 Native Tools Command Prompt for VS 2022" as administrator (or "x86 Native Tools Command Prompt for VS 2022"), run the injector.exe
