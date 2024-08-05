@@ -14,7 +14,7 @@ The hook will be compiled as a dynamic load library. Code in hookDLL
 2. Click "generate" on top tool bar, 
 3. Right click project name on the left bar and choose "property"
    ![image](https://github.com/user-attachments/assets/da1599a5-2ce8-4432-ac78-3c88ebd0e087)
-4. Modify:
+4. Modify:\n
      a. 配置类型-常规：dll
    ![image](https://github.com/user-attachments/assets/f2fb17f4-346a-4275-9d67-0bd6c79d8c9f)
 
