@@ -24,7 +24,7 @@ TIP: Proxifier won't work if Fiddler isn't running;  Fiddler only gives 10 days 
 
 
    ![image](https://github.com/user-attachments/assets/8a49d54f-88e1-42a2-bd06-5ebbc1ff95c0) 
-2. Profile-Proxy Servers:
+2. Profile-Proxy Servers: Add 127.0.0.1:8888
 
    
    ![image](https://github.com/user-attachments/assets/0346b58e-f3b8-4619-a499-e818fb9dbbb3)
